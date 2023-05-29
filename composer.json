@@ -1,0 +1,18 @@
+{
+    "name": "radilapratiwi-uinsu/uts",
+    "description": "UTS Mata Kuliah Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RadilapratiwiUinsu\\Uts\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "radila pratiwi"
+        }
+    ]
+}
